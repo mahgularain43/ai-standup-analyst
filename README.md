@@ -16,6 +16,17 @@ AI Stand-Up Analyst 🤖🎤 — A Streamlit app that turns your data into comed
 - 🔔 **Slack Alerts** – Send anomalies and roast-style alerts straight to Slack.
 
 ---
+# 🎯 Roadmap (Future Enhancements)
+
+🎥 AI-generated comedy videos (avatar performing the stand-up routine).
+
+🌍 Localized humor (adapt jokes for cultural/linguistic contexts).
+
+🕹️ Gamification (Data Olympics, roast battles between teams).
+
+📡 Auto social posting (to LinkedIn, Twitter/X, Slack).
+
+🧬 Adaptive personas (comedian evolves based on user feedback).
 
 ## 🚀 Installation
 
