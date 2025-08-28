@@ -1,0 +1,21 @@
+# Core UI & data
+streamlit>=1.32,<1.36
+pandas==2.2.2
+numpy>=1.26,<3
+scipy==1.11.4
+
+# Viz & export
+plotly==5.22.0
+kaleido==0.2.1
+reportlab==4.1.0
+
+# File formats
+openpyxl>=3.1.2          # Excel
+pyarrow>=14.0.1          # Parquet (optional but nice)
+
+# Integrations & utils
+requests==2.32.3
+python-dotenv==1.0.1
+
+# Audio
+pydub==0.25.1
